@@ -300,5 +300,10 @@ wget https://example.com/file.zip
 Output:
 Downloads "file.zip" from the specified URL.
 ```
+### Output
+![](https://github.com/RanjithD18/EX.4-LINUX-COMMANDS/blob/main/1.jpeg)
+![](https://github.com/RanjithD18/EX.4-LINUX-COMMANDS/blob/main/2.jpeg)
+![](https://github.com/RanjithD18/EX.4-LINUX-COMMANDS/blob/main/3.jpeg)
+![](https://github.com/RanjithD18/EX.4-LINUX-COMMANDS/blob/main/4.jpeg)
 ### Result
 This implies that you have acquired a foundational understanding of UNIX commands and have successfully carried out their execution.
